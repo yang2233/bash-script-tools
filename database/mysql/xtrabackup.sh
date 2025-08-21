@@ -1,5 +1,5 @@
 #!/bin/bash
-# File Name: XTRABACKUP MYSQL BACKUP SCRIPT
+# Description: XTRABACKUP MYSQL BACKUP SCRIPT
 # Version: V1.2
 # Author: yy
 # CREATED DATE: 2021/05/28
