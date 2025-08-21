@@ -9,7 +9,7 @@ source /etc/profile
 
 # 全局变量定义
 MYSQL_USER="root"
-MYSQL_PASSWORD='passwd'
+MYSQL_PASSWORD='password'
 MYSQL_CONFIG="/etc/my.cnf"
 MYSQL_HOST="localhost"
 BACKUP_DIR="/home/backup"
