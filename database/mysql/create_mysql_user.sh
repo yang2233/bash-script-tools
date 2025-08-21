@@ -32,8 +32,8 @@ define_account_map() {
 	"app_prod")
 		ACCOUNT_MAP=(
 			["u_prod_01"]="app_prod_db01${version:+_$version}"
-			["u_prod_02"]="app_prod_db01${version:+_$version}"
-			["u_prod_03"]="app_prod_db01${version:+_$version}"
+			["u_prod_02"]="app_prod_db02${version:+_$version}"
+			["u_prod_03"]="app_prod_db03${version:+_$version}"
 		)
 		;;
 	# 在这里添加新的类型
