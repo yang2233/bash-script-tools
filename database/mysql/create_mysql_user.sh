@@ -1,5 +1,5 @@
 #!/bin/bash
-# Function: MySQL User Creation Script
+# Description: MySQL User Creation Script
 # Version: V1.0
 # Author: yy
 # CREATED DATE: 2025/08/05
